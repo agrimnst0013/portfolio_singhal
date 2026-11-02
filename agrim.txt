@@ -1,0 +1,21 @@
+ABOUT ME:
+- Name: Agrim Singhal
+- Location: Sonipat, Haryana, India
+- Role: CS & AI Student @ Newton School of Technology
+- Passions: Exploring Technology, Programming Fundamentals, Artificial Intelligence
+- Athletics: District Level Badminton Player
+
+PORTFOLIO FILES:
+- index.html (Main responsive webpage structure)
+- style.css  (Modern dark glassmorphic styling, responsive layout, pure CSS mobile navigation)
+
+PROJECT LAUNCH BAYS (SLOTS):
+- Slot 1: Algorithmic Problem Solver (CS Fundamentals)
+- Slot 2: Interactive Web Experience (HTML5 & CSS3)
+- Slot 3: AI & Smart Assistant Prototype (Artificial Intelligence & Python)
+
+HOW TO EJECT / ADD YOUR OWN PROJECTS:
+1. Open index.html in your editor.
+2. Search for "PROJECT SLOT 1", "PROJECT SLOT 2", or "PROJECT SLOT 3".
+3. Update the title, description, tags, and links with your actual project details!
+
